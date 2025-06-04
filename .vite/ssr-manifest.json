@@ -147,6 +147,10 @@
     "/assets/ilaria-BPVxHfeE.jpg",
     "/assets/hands-Q_7NsxW5.avif"
   ],
+  "src/data/gallery.json": [
+    "/assets/ilaria-BPVxHfeE.jpg",
+    "/assets/hands-Q_7NsxW5.avif"
+  ],
   "src/main.js": [
     "/assets/ilaria-BPVxHfeE.jpg",
     "/assets/hands-Q_7NsxW5.avif"
@@ -167,7 +171,7 @@
     "/assets/ilaria-BPVxHfeE.jpg",
     "/assets/hands-Q_7NsxW5.avif"
   ],
-  "src/views/ContactPage.vue?vue&type=style&index=0&scoped=01ea18c9&lang.css": [
+  "src/views/ContactPage.vue?vue&type=style&index=0&scoped=c699f5f1&lang.css": [
     "/assets/ilaria-BPVxHfeE.jpg",
     "/assets/hands-Q_7NsxW5.avif"
   ],
