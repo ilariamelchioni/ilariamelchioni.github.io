@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://ilariamelchioni.it/sitemap.xml
+Sitemap: https://www.ilariamelchioni.it/sitemap.xml
 Disallow: /privacy-policy/
 Disallow: /cookie-policy/
